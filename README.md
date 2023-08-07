@@ -9,7 +9,6 @@ This is a tool that scrapes info from an html website.
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 
@@ -20,7 +19,7 @@ you'll need to install requirements first:
 pip install -requirements.txt
 ```
 ## Configuration
-you need to create an excel file named output.xlsx
+you need to create an excel file named output.xlsx in the same Directory 
 
 ## Usage
 Then run the program
@@ -28,5 +27,5 @@ Then run the program
 scrape.py
 ```
 ## License
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+Created by Faisal.
 
