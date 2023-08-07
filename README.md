@@ -2,6 +2,7 @@
 
 This is a tool that scrapes info from an html website.
 
+__*Note:*__ This project is meant to be for educational purposes
 
 
 ## Table of Contents
@@ -9,7 +10,7 @@ This is a tool that scrapes info from an html website.
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](usage)
-- [License](#license)
+- [Author](#author)
 
 
 ## Installation
@@ -26,6 +27,6 @@ Run the program
 ```bash
 scrape.py
 ```
-## License
+## Author
 Created by Faisal.
 
