@@ -1,0 +1,5 @@
+#requirements.in
+requests
+openpyxl
+beautifulsoup4
+pandas
